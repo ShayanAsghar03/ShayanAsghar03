@@ -37,10 +37,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shayanasghar2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/shayan.asghar.715572" target="_blank">
+  <a href="https://www.facebook.com/ShayanAsghar03" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/shayan__asghar/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/shayan__asghar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
